@@ -11,6 +11,12 @@ def todo_page():
             <label>Item ID:</label>
             <input type="text" name="itemId" />
             
+            <label>Item UUID:</label>
+            <input type="text" name="itemUuid" />
+
+            <label>Item Hash:</label>
+            <input type="text" name="itemHash" />
+
             <label>Item Name:</label><br>
             <input type="text" name="itemName"><br><br>
             
